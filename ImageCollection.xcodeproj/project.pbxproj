@@ -13,7 +13,7 @@
 /* Begin PBXFileReference section */
 		2658A6302D2841A700D65584 /* ImageCollection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageCollection.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2658A6662D284D5500D65584 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		2658A6692D284D8D00D65584 /* 1 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1; sourceTree = "<group>"; };
+		2658A66A2D284E7B00D65584 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -69,7 +69,7 @@
 		2658A6682D284D6F00D65584 /* screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				2658A6692D284D8D00D65584 /* 1 */,
+				2658A66A2D284E7B00D65584 /* 1.png */,
 			);
 			path = screenshots;
 			sourceTree = "<group>";
