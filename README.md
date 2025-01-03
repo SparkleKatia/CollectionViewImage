@@ -1,9 +1,4 @@
-//
-//  README.swift
-//  ImageCollection
-//
-//  Created by Kateryna on 03/01/2025.
-//
+
 ## Features
 
 - **CollectionView**: Display a grid of UIImages
